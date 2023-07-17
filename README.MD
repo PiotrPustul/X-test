@@ -53,7 +53,7 @@
 - Font Primary: #010000
 - Font Secondary: #4a4a4a
 
-###### Message to the developer
+### Message to the developer
 
 Thank you for the opportunity to attempt the test.
 
